@@ -6,7 +6,7 @@ Proyecto de análisis y representación de datos actuales referentes a los ataqu
 ## Technologies
 Proyecto desarrollado con amor usando:
 * Google Colab: https://colab.research.google.com
-* Kaggle: https://www.kaggle.com/datasets/pritsheta/heart-attack(dataset)
+* Kaggle: https://www.kaggle.com/datasets/pritsheta/heart-attack
 * Python version: 3.9
 
 ## Setup
